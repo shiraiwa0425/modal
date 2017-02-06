@@ -1,0 +1,3 @@
+.modal .modalWindow { display: none; }
+
+.modal .modalWindow .entry { display: block; }
